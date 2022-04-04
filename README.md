@@ -1,8 +1,16 @@
-# Getting Started with Create React App
+# LinkedIn Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Main technologies used:
 
-## Available Scripts
+### Styled Components
+
+### React JS
+
+### Redux
+
+### React Router v6
+
+### FIreBase v9
 
 In the project directory, you can run:
 

@@ -2,6 +2,7 @@
 /.firebase
 .firebaserc
 firebase.json
+README.md
 
 # dependencies
 /node_modules
