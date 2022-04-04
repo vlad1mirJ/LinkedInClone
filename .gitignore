@@ -2,7 +2,7 @@
 /.firebase
 .firebaserc
 firebase.json
-
+firebase.js
 # dependencies
 /node_modules
 /.pnp
