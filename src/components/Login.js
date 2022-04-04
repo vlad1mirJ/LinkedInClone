@@ -115,6 +115,18 @@ const Nav = styled.nav`
       padding: 0 5px;
     }
   }
+
+  @media (max-width: 390px) {
+    a {
+      width: 100px;
+    }
+  }
+
+  @media (max-width: 250px) {
+    a {
+      width: 80px;
+    }
+  }
 `
 
 const Join = styled.a`
@@ -127,6 +139,12 @@ const Join = styled.a`
     background-color: rgba(0, 0, 0, 0.08);
     color: rgba(0, 0, 0, 0.9);
     border-radius: 4px;
+  }
+  @media (max-width: 390px) {
+    font-size: 0.9rem;
+  }
+  @media (max-width: 334px) {
+    display: none;
   }
 `
 
@@ -145,6 +163,12 @@ const SignIn = styled.a`
     background-color: rgba(112, 181, 249, 0.15);
     color: #0a66c2;
     text-decoration: none;
+  }
+  @media (max-width: 390px) {
+    font-size: 0.9rem;
+  }
+  @media (max-width: 250px) {
+    font-size: 0.75rem;
   }
 `
 
